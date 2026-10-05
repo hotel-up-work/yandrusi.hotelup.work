@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yandrusi.webart.work/sitemap.xml
+Sitemap: https://yandrusi.hotelup.work/sitemap.xml
